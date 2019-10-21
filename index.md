@@ -7,6 +7,8 @@ The source for VMEM is in this
 
 The following libraries are part of VMEM:
 
+TEST
+
 #### libvmem
 
 The **libvmem** library turns a pool of persistent memory into a
